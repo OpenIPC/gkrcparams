@@ -1,7 +1,7 @@
 ![OpenIPC logo][logo]
 
 ## gkrcparams
-**_Tool for changning HiSilicon/Goke encoder params_**
+**_Tool for changing HiSilicon/Goke encoder params_**
 
 ### Prepare
 To compile download and extract 
